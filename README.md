@@ -1,2 +1,4 @@
 # qmake2cmake
-convert .pro using in QT to CMakeLists.txt using in cmake
+come from there 
+
+https://sourceforge.net/projects/qmake2cmake/
